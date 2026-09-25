@@ -1,4 +1,4 @@
-name: event-wingman
+name: wingman-voice-mvp
 acli_version: 1.4.0
 agent_directory: app
 region: us-west1
