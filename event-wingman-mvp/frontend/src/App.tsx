@@ -343,7 +343,7 @@ export const App: React.FC = () => {
         <header className="flex items-center justify-between pb-4 border-b border-slate-800">
           <div>
             <h1 className="text-2xl font-bold tracking-tight text-white flex items-center gap-2">
-              Event Wingman
+              EventWingman Voice Agent
             </h1>
             <p className="text-xs text-slate-400 mt-0.5">
               Natural voice copilot for saving & recalling event connections

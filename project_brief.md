@@ -1,4 +1,4 @@
-# Project Brief: Event Wingman
+# Project Brief: EventWingman Voice Agent
 
 **One-liner**: A real-time, voice-first AI networking copilot and temporary event memory that helps conference, hackathon, and meetup attendees capture who they met, remember recommendations and topics, discover explainable connections, and prepare human-approved follow-ups without manual note-taking.
 

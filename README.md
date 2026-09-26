@@ -1,4 +1,4 @@
-# 🎙️ Event Wingman
+# 🎙️ EventWingman Voice Agent
 
 > **Real-time, voice-first AI networking copilot and temporary event memory for conference and meetup attendees.**
 
